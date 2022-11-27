@@ -10,5 +10,10 @@
          <Font name="Candara" size="20.0" />
       </font>
    </Label>
+   <Label alignment="CENTER" prefHeight="17.0" prefWidth="164.0" text="Ehab Mansour">
+      <font>
+         <Font size="20.0" />
+      </font>
+   </Label>
 
 </VBox>
